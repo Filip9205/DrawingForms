@@ -1,6 +1,6 @@
 # 🎨 DrawingForms 🖌️
 
-Welcome to **DrawingForms**, a creative and interactive Python project built with **Tkinter** that allows users to create drawings, shapes, and sketches in a simple and intuitive graphical user interface (GUI). Whether you're a beginner or an experienced Python developer, DrawingForms provides an easy-to-use canvas to express your creativity and sharpen your GUI programming skills.
+Welcome to **DrawingForms**, a creative and interactive Python project built with **Turtle** that allows users to create drawings, shapes, and sketches.
 
 ## 🚀 Features
 
